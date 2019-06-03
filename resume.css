@@ -1,0 +1,42 @@
+body {
+	font-family: 'Helvetica', sans-serif;
+	font-size: 16px;
+	max-width: 900px;
+	margin: auto;
+}
+h2 {
+	margin-top: 48px;
+	margin-bottom: 0;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+ul ul {
+	padding-left: 32px;
+}
+
+li {
+	padding: 10px;
+}
+
+.date {
+	font-style: italic;
+}
+
+h3 {
+	margin-top: 48px;
+	margin-bottom: 0;
+}
+
+h4 {
+	margin-top: 48px;
+	margin-bottom: 0;
+}
+
+h5 {
+	margin-top: 48px;
+	margin-bottom: 0;
+}
